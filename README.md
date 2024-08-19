@@ -56,12 +56,12 @@ Mac Vendor Lookup Pro es una herramienta de línea de comandos potente y flexibl
 
 4. Haga el script ejecutable:
    ```
-   chmod +x mac-vendor-lookup-pro.py
+   chmod +x mac-vendor-lookup.py
    ```
 
 5. Cree un enlace simbólico en /usr/local/bin para poder ejecutar el script desde cualquier ubicación:
    ```
-   sudo ln -s $(pwd)/mac-vendor-lookup-pro.py /usr/local/bin/mac-vendor-lookup
+   sudo ln -s $(pwd)/mac-vendor-lookup.py /usr/local/bin/mac-vendor-lookup
    ```
 
 ## Uso
